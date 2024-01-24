@@ -1,15 +1,26 @@
 # Lesure Travel Applicarion
 
 ## Introduction
-Provide a brief overview of your React Native application. Include information such as the purpose, key features, and any other relevant details.
+Welcome to Leisure Explorer, your go-to application for discovering exciting leisure places around you! Whether you're a local looking for hidden gems or a traveler exploring a new city, Leisure Explorer has you covered.
+
+## Features
+
+### Location-Based Recommendations
+Get personalized recommendations for leisure places based on your current location.
+
+### Category Search
+Explore leisure spots by category, from parks and cafes to museums and more.
+
+### User Authentication
+Securely sign in using Firebase authentication to access personalized features.
+
+### Interactive Maps
+Seamlessly integrate Google Map API to visualize and navigate to your chosen destinations.
+
+### Chatbot Assistance
+Utilize the built-in chatbot to receive recommendations, ask questions, and enhance your exploration experience.
 
 ## Getting Started
-Explain how to set up the project locally. Include step-by-step instructions for installing dependencies, configuring the environment, and running the application.
-
-## Prerequisites
-List any software, tools, or dependencies that users need to install before setting up your project. Include versions if necessary.
-
-## Installation
 
 ### Clone the repository
 `git clone [https://github.com/your-username/your-project.git](https://github.com/MalithMadusankha/leisure-app.git)`
