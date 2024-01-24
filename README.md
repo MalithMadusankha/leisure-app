@@ -24,3 +24,10 @@ List any software, tools, or dependencies that users need to install before sett
 `npm start`
 
 `npm run android`
+
+## Screen Shots
+
+![IMG-20240112-WA0032](https://github.com/MalithMadusankha/leisure-app/assets/78203677/1ed4cf1d-7209-4fc2-a7c6-68ffac1d15fd)
+![IMG-20240112-WA0033](https://github.com/MalithMadusankha/leisure-app/assets/78203677/5ba7fee2-81fb-4b18-8c84-81f586f61686)
+![IMG-20240112-WA0034](https://github.com/MalithMadusankha/leisure-app/assets/78203677/27688c7d-50f5-469a-8c44-4cde117de00a)
+![IMG-20240112-WA0031](https://github.com/MalithMadusankha/leisure-app/assets/78203677/34e0c4ba-7e59-4e8e-8d61-ed40fce16188)
