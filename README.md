@@ -11,9 +11,6 @@ Get personalized recommendations for leisure places based on your current locati
 ### Category Search
 Explore leisure spots by category, from parks and cafes to museums and more.
 
-### User Authentication
-Securely sign in using Firebase authentication to access personalized features.
-
 ### Interactive Maps
 Seamlessly integrate Google Map API to visualize and navigate to your chosen destinations.
 
